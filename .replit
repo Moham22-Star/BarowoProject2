@@ -1,0 +1,1 @@
+run = "javac LiberateToAutomate.java && java LiberateToAutomate"
